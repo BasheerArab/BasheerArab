@@ -7,15 +7,12 @@
 
 ## Skills  
 - Programming:   
-  
-  'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>][Python] / C++ / Java / Flutter / SQL
+  Python / C++ / Java / Flutter / SQL
   
 - Design:
-  
   Figma / Adobe XD
   
 - Data Visualization, Analysis and Dashboards:
-  
   MatPlotLib / IBM Cognos Analytics 
 
 
