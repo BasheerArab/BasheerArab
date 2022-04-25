@@ -15,7 +15,7 @@
   
 * Design:
   
-  Figma / Adobe XD
+  Figma / Adobe XD / Canva
   
   
 * Data Visualization, Analysis and Dashboards:
