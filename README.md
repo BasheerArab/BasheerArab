@@ -7,12 +7,15 @@
 
 ## Skills  
 - Programming:   
+  
   Python / C++ / Java / Flutter / SQL
   
 - Design:
+  
   Figma / Adobe XD
   
 - Data Visualization, Analysis and Dashboards:
+  
   MatPlotLib / IBM Cognos Analytics 
 
 
