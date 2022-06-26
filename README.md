@@ -10,7 +10,7 @@ Motivated Artificial Intelligence senior student with some experience from doing
 ## Skills  
 * Programming:   
   
-  Python / C++ / Java / Flutter / SQL
+  Python / C++ / Java / Dart / Flutter / SQL
   
   
 * Design:
