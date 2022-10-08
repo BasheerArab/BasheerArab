@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Basheer
-### Artificial Intelligence Developer and Data Scientist 
+### Data Scientist and Mobile Developer
 
 Motivated Artificial Intelligence graduate with some experience from doing some projects and sharing knowledge with interested people. Effective multi-tasker with strong organizational skills. Known for strong relationship-building and communication skills, offering superior ability to foster positive work culture among teams. Interested in some specific fields in AI such as Image Processing and Machine Learning. Very practical in programming, participated and won some awards in programming competitions. Have some skills in designing and video editing.
 
